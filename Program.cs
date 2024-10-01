@@ -17,6 +17,10 @@ namespace Trabajo_Grupal_Git
 
             Console.WriteLine("Hola desde rama02");
 
+            int valor = 12;
+            int valor02 = 12;
+            Console.WriteLine(valor + valor02);
+
         }
 
     }
