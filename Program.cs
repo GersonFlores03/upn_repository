@@ -12,11 +12,11 @@ namespace Trabajo_Grupal_Git
        static void Main(string[] args)
         {
             Console.WriteLine("Hola desde git");
-<<<<<<< HEAD
+
             Console.WriteLine("Datos");
-=======
+
             Console.WriteLine("Hola desde rama02");
->>>>>>> rama02
+
         }
 
     }
