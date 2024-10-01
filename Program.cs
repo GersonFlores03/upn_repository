@@ -12,6 +12,7 @@ namespace Trabajo_Grupal_Git
        static void Main(string[] args)
         {
             Console.WriteLine("Hola desde git");
+            Console.WriteLine("Datos");
         }
 
     }
